@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    outline:none;
+}
+body{
+    width:100px;
+    background-color:gray;
+}
+form{
+    background-color:#fff;
+    position:absolute;
+    width:400px;
+    padding:100px 50px 50px 100px;
+    margin:-9vh 300px;
+    border-radius:5px;
+    box-shadow:5px 5px 6px -7px;
+}
+.main h3{
+    padding-left:10px;
+    font-size:30px;
+    font-weight:bold;
+}
+.line{
+    border:1px solid #222;
+    opacity:0.2;
+}
+.content{
+    font-size:14px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.input input{
+    background-color:#fff;
+    margin:auto;
+    border:1.5px solid rgb(235, 225, 225);
+    width:300px;
+    padding:10px 20px;
+    border-radius:8px;
+    text-align:left;
+    margin-top:10px;
+    color:black;
+    font-family:'Segoe UI';
+    font-size:15px;
+    text-decoration:none;
+}
+.line2{
+    border:1px solid #222;
+    opacity:0.2;
+    margin-top:10px;
+}
+.btn{
+    background-color:#aaa;
+    color:white;
+    margin:auto;
+    width:70px;
+    border-radius:6px;
+    padding:10px 10px;
+    cursor:pointer;
+    font-family:'Times New Roman', Times, serif;
+    margin-left:170px;
+    position:absolute;
+    text-decoration:none;
+}
+
+.btn2{
+    background-color:#1877f2;
+    width:70px;
+    border-radius:6px;
+    padding:10px 10px;
+    display:block;
+    font-size:12px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    cursor:pointer;
+    margin:auto;
+    position:relative;
+    margin-top:-15px;
+    margin-right:40px;
+}
+
